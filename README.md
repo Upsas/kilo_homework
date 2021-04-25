@@ -14,8 +14,8 @@ DB_PASSWORD=
 ```
 ### Run server & migrations
 
-- `php artisan serve`
 -  `php artisan migrate`
+- `php artisan serve`
 
 ## API
 
